@@ -1,5 +1,5 @@
 Cách 1:
-imodule https://github.com/VuThanhLong012/stego_tool_h265_metadata/raw/refs/heads/main/stego_tool_h265_metadata.tar
+imodule https://github.com/lequangtuan123/stego_tool_audio_metadata/raw/refs/heads/main/stego_tool_audio_metadata.tar.xz
 
 labtainer -r stego_tool_audio_metadata
 
