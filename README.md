@@ -8,7 +8,7 @@ git clone https://github.com/lequangtuan123/stego_tool_audio_metadata.git
 
 cd stego_tool_audio_metadata
 
-tar -xvf stego_tool_audio_metadata.tar
+tar -xvf stego_tool_audio_metadata.tar.xz
 
 Sao chép thư mục vừa giải nén vào đường dẫn labtainer/trunk/labs
 
